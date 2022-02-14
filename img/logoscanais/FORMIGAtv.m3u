@@ -1,0 +1,566 @@
+
+
+#EXTM3U
+
+
+#EXTINF:-1, LISTADOMAYKE SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+#EXTINF:-1, LISTADOMAYKE SBT MA HD
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8?
+#EXTINF:-1, LISTADOMAYKE SBT Maranhão Didusora
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1, LISTADOMAYKE SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1, LISTADOMAYKE SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+#EXTINF:-1, LISTADOMAYKE Rede Tv HD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1975392926.m3u8
+#EXTINF:-1, LISTADOMAYKERede Tv RJ HD
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w2070232887.m3u8
+#EXTINF:-1, LISTADOMAYKE Rede Tv SP HD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?
+#EXTINF:-1, LISTADOMAYKE Tv futura
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?
+#EXTINF:-1, LISTADOMAYKE Tv brasil
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, LISTADOMAYKE Desenhos Gospel
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="CANAIS", LISTADOMAYKE REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/REDETV! .png" group-title="CANAIS", LISTADOMAYKE REDE TV! SP- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/redetv2/redetv2/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS", LISTADOMAYKE BAND- Canal FutucAndroiD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w587755610.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS", LISTADOMAYKE BAND- Canal FutucAndroiD
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="http://goo.gl/MeEyBg?" group-title="CANAIS", LISTADOMAYKE BAND SD- Canal FutucAndroiD
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/chunklist_w1204250451.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/da98ac6d6b08d276d592769ec21bc17f.png" group-title="CANAIS", LISTADOMAYKE GOSPEL MOVIES TELEVISION- Canal FutucAndroiD
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS", LISTADOMAYKE TVE BA HD- Canal FutucAndroiD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?ANTONIO
+#EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", LISTADOMAYKE CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" group-title="CANAIS INTERNACIONAIS", LISTADOMAYKE HBO2 HD- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?INGLESNALDYNHO
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53b84cbe8764ecab27e477d4cc497250.png" group-title="CANAIS", LISTADOMAYKE CARIOCA NET- Canal FutucAndroiD
+http://hd4.com.br:1935/tvcarioca/tvcarioca/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png" group-title="CANAIS", LISTADOMAYKE HISTORY LAB- Canal FutucAndroiD
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="CANAIS", LISTADOMAYKE LOCOMOTION- Canal FutucAndroiD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://3abn.org/img/logos/tv/3ABN-Kids.png" group-title="CANAIS", LISTADOMAYKE ABN KIDS- Canal FutucAndroiD
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="CANAIS", LISTADOMAYKE TV TEEN NET- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png/revision/latest?cb=20160630155227" group-title="CANAIS", LISTADOMAYKE HIT MUSIC- Canal FutucAndroiD
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1no2stT.jpg" group-title="CANAIS", LISTADOMAYKE RETRÔ MUSIC- Canal FutucAndroiD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", LISTADOMAYKE SBT (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", LISTADOMAYKE SBT (CE)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1147872746_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", LISTADOMAYKE SBT (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAIS ABERTOS", LISTADOMAYKE SBT (MA)
+http://difusorama.zoeweb.tv:1935/z437-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV RECORD (SP)
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV RECORD HD (SP)
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/200px-Logotipo_da_Record.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV RECORD (AM)
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1557102741~exp=1557109341~acl=/*~hmac=7acb1281c68cd011d9ac192673fb62d8cc6571e547aaf3de0b5b60f6bfa39dbf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8d/Logotipo_da_TV_A_Cr%C3%ADtica_%282017%E2%80%932019%29.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV A CRITICA (RECORD AM)
+https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8?sts=st=1565293256~exp=1565299856~acl=/*~hmac=be22263b6e00438e10d314ed8a94beae816a47301f279fb25c9ba9c6e8c23234
+#EXTINF:-1 tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV CAMARA
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAIS ABERTOS", LISTADOMAYKE CULTURA (MG)
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://catve.akamaized.net/portal/img/aovivo.jpg" group-title="CANAIS ABERTOS", LISTADOMAYKE CATVE (CULTURA PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w2140063674.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/TV_Escola.png/235px-TV_Escola.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV ESCOLA
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8?sts=st=1555574196~exp=1555580796~acl=/*~hmac=9efca0198d4e1c3ad9f805424064fd22b92e3a92daf442f1f96b74ccebef8ada
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAIS ABERTOS", LISTADOMAYKE TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="CANAIS ABERTOS", LISTADOMAYKE TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https:
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="NOTICIAS", LISTADOMAYKE RECORD NEWS SD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b832512.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="NOTICIAS", LISTADOMAYKE RECORD NEWS HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C9135%2C89c2e0b2c30c0a4a75bde2766f1b172e%3Bbase64np%3BUPeMR84ZuD4AkNY%21/amlst%3AUPd0XtNSvT8f0Fqh/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/recnews.png" group-title="NOTICIAS", LISTADOMAYKE RECORD NEWS
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://cbn.globoradio.globo.com/estaticos/img/CBN_1024x1024.png" group-title="NOTICIAS", LISTADOMAYKE TV CBN
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/539378282978742273/-kOhKE4u_400x400.png" group-title="NOTICIAS", LISTADOMAYKE JORNAL TV
+http://evpp.mm.uol.com.br/ne10/radiojornal-recife-avra-video-web.sdp/chunklist_w653587283.m3u8
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/39-399793_red-bull-tv-png-clipart.png" group-title="MUNDO", LISTADOMAYKE RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvbIfDo.png" group-title="VARIEDADES", LISTADOMAYKE YEEAH! TV
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=40007737
+#EXTINF:-1 tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="VARIEDADES", LISTADOMAYKE TOP TV
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1076175471.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png" group-title="VARIEDADES", LISTADOMAYKE RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.tumblr.com/b0305ebabfd70f5124993f78570c1520/tfeircd/H8loj9vfx/tumblr_static_65akcisiw0co8s40cwc444s8g.png" group-title="FILMES/SERIES", LISTADOMAYKE TV FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9tDte7uhQ9c/WLdNncrMpjI/AAAAAAAACws/K60NlJ0Qa4AVKeQ1JYpis_OlAheHottMACLcB/s1600/Cinemais.jpg" group-title="FILMES/SERIES", LISTADOMAYKE CINE+
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w155304124.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-eNLDK5O1Nbs/TbxYOimwaPI/AAAAAAAAAZk/aR5CYVQlxgo/s1600/LOGO.jpg" group-title="FILMES/SERIES", LISTADOMAYKE CINE GOSPEL
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL", LISTADOMAYKE DISNEY JR
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170, LISTADOMAYKE8784, LISTADOMAYKEe684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1200px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="INFANTIL", LISTADOMAYKE DISNEY XD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170, LISTADOMAYKE8784, LISTADOMAYKE7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="INFANTIL", LISTADOMAYKE GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="INFANTIL", LISTADOMAYKE KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mhumyod.png" group-title="REGIONAIS", LISTADOMAYKE REDE RC [BA]
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+#EXTINF:-1 tvg-logo="http://tvjsid.com.br/wp-content/uploads/2017/10/Simbolo-tv-Jsid-sem-fundo-120x120.png" group-title="REGIONAIS", LISTADOMAYKE TV J.SID [BA]
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1531615987
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/02/a-cara-da-bahia-218x150.png" group-title="REGIONAIS", LISTADOMAYKE TV CARA DA BAHIA [BA]
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1224721706.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logo_UnB_TV.png/200px-Logo_UnB_TV.png" group-title="REGIONAIS", LISTADOMAYKE UNBTV [DF]
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(Fa-ShtQfb48)r(TOqkzw)a(sSXQDw)p(d(Ujo)k(l0Q)m(wLhGonJIF45qBPL3g67u_Q)n(a(ZN85ng)s(z8M)'a(C_zpqw)s(vIw)'a(GMdNTg)s(JdQ)'a(b1yl3Q)s(d_Y)))s(s(gVY)b(lyG0gLHg-RtsgxNHB0VhTGPtSOkz7DmabEfYpfmXZzcrWsji3gt7TFwr_YYV9Nwhh7cXWeHcH79NbhXcGg)'s(FR8)b(nmj9219GXzlVrLxOw5GOuvFdlVoXYNGu903CcLNfdJdzoxBlAYODamlGU-XcIszL5uA1mFW8Yli3QCPffKe4Yz-JnzHcDrIY6WUveXRx)'s(1GM)b(mJdH5eOM))m(0))/unb_index.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/02/logotvambiental1.png" group-title="REGIONAIS", LISTADOMAYKE TV AMBIENTAL [ES]
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0TyXIA.png" group-title="REGIONAIS", LISTADOMAYKE TV PANTANAL [MS]
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1320184666.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/837637013243326464/p9XHZuW3.jpg" group-title="REGIONAIS", LISTADOMAYKE REDE MINAS [MG]
+https://slbps-sambatech.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b954368.m3u8?sts=st=1555716938~exp=1555723538~acl=/*~hmac=a68a349d7dc8af5c07cde745ba4ebbfc2e1de74a038364c6988a0651a934bc9d
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/y5OtzDTuJw27j-WZrxDbmO_YWyCQqBNVmjEeQGKwU5CER-aD7tmy3i4N7kwPU5s-6w=s180" group-title="REGIONAIS", LISTADOMAYKE TV DIÁRIO DO SERTÃO [PB]
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvcarioca.net/gallery_gen/f2e7d8967706e209f0dbe21345a0993d_150x152.jpeg" group-title="REGIONAIS", LISTADOMAYKE TV CARIOCA [RJ]
+http://hd4.com.br:1935/tvcarioca/tvcarioca/chunklist_w1051191013.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvnatal.com.br/img/logo%20img.png" group-title="REGIONAIS", LISTADOMAYKE TV NATAL [RN]
+http://stmv6.conectastm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=1108698460
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT PE SD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w662604996_b131000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT GO HD
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1278230418_b350000.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w155384117.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT MA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAL ABERTO", LISTADOMAYKE SBT - MA | IMPERATRIZ
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="BAND", LISTADOMAYKE BAND
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png group-title=" group-title="CANAL ABERTO", LISTADOMAYKE REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", LISTADOMAYKE REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", LISTADOMAYKE REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="CANAL ABERTO", LISTADOMAYKE REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="CANAL ABERTO", LISTADOMAYKE REDE TV PB
+https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="CANAL ABERTO", LISTADOMAYKE REDE TV RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", LISTADOMAYKE RECORD SP
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b832512.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", LISTADOMAYKE RECORD SP HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", LISTADOMAYKE RECORD ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?EDSONSOUSA_LIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAL ABERTO", LISTADOMAYKE TV VITORIA - RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="CANAL ABERTO", LISTADOMAYKE TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAL ABERTO", LISTADOMAYKE REDE BRASIL®
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAL ABERTO", LISTADOMAYKE REDE BRASIL®
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAL ABERTO", LISTADOMAYKE REDE BRASIL 2®
+https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(Fa31Q5v5a6o)r(TOqkzw)a(sUsQSA)p(d(Ujo)k(l0Q)m(BrnAj8kXXg3HL5dBmI18uQ)n(a(DcFp0w)s(as8)'a(ZDhYkg)s(NVY)'a(wa4eIw)s(Qno)'a(T1e2Kg)s(HdE)))s(s(a-M)b(bwOoi8AwPOAMw-IFMNhdfKMGshdcRD-xtSK_Qng9WI9xOnA1QqX1Nyk7CQSEjdP5FTVXGdwQx1pJzFOh7A)'s(_u8)b(Jb0RRot9FwcE9xQaXkl8BDE6V6j18Pqjyu4AF9UlmyA7MQJuDEGT6uLpQJfKI836mIgTAZgI8DA1H0BpFdm0cIFfd76yiwIpVCdP7ObK)'s(YSo)b(ant5f0eG))m(0))/25_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="CANAL ABERTO", LISTADOMAYKE TV MARAJOARA -  REDE BRASIL
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?wowzasessionid=1233534265
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agw8tsJ.png" group-title="CANAL ABERTO", LISTADOMAYKE TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAL ABERTO", LISTADOMAYKE TV CULTURA HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1982702716.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="CANAL ABERTO", LISTADOMAYKE TV CULTURA PARAÍBA
+http://stream.tvitarare.com.br/hls/site/site_mid/index.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="CANAL ABERTO", LISTADOMAYKE TV CULTURA PARAÍBA HD
+http://stream.tvitarare.com.br/hls/site/site_hi/index.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAL ABERTO", LISTADOMAYKE TV APERIPÊ
+http://cdn.comets.com.br/tvaperipe/aovivo/playlist.m3u8?s=1&sjwt=null
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAL ABERTO", LISTADOMAYKE TV CULTURA MG HD
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1109885564.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAL ABERTO", LISTADOMAYKE TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4DOaSQC.png" group-title="CANAL ABERTO", LISTADOMAYKE TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO", LISTADOMAYKE CAT TVE HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w1186304523.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VlHeBLa.png?1" group-title="CANAL ABERTO", LISTADOMAYKE CAT TVE HD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQGpdyD.png" group-title="CANAL ABERTO", LISTADOMAYKE TV FUTURA PR
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EAufOuD.png?1" group-title="CANAL ABERTO", LISTADOMAYKE TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0djS0R.png?1" group-title="CANAL ABERTO", LISTADOMAYKE TV ESCOLA
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", LISTADOMAYKE TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://i.imgur.com/achrE0z.png?1" group-title="RELIGIOSO", LISTADOMAYKE TV APARECIDA HD
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="CANAIS PORTUGAL", LISTADOMAYKE NICKELODEON (Copyright © 2019 - TeamBlue)
+http://85.244.70.140:7000/play/a00o
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE TV KID MAIS
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV", LISTADOMAYKE TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTADASGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/TbZ4w1" group-title="INFANTIL", LISTADOMAYKE GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE ANIME TV ESPANHOL
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="INFANTIL", LISTADOMAYKE GOSPEL CARTOON
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yO8_nM3g3Gg/XNDGwAZmyHI/AAAAAAAAGs0/IG5xgSkT3v4ClGttboTm96-IE-_1sToQQCK4BGAYYCw/s320/KURIAKOS%2BKIDS.png" group-title="INFANTIL", LISTADOMAYKE KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/TeamBlue.m3u8
+#EXTINF:-1 tvg-logo="http://www.cachipum.tv/img/logo.png" group-title="Sem Categoria", LISTADOMAYKE Cachipum | SD | Chile
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="DESENHOS", LISTADOMAYKE Tv.Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", LISTADOMAYKE M20Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="FILMES", LISTADOMAYKE Pinamar
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="MUSICAS", LISTADOMAYKE R.Bruno
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f0/be/d6/f0bed6cc9a3e5f519b60278341b32c29.jpg" group-title="Sem Categoria", LISTADOMAYKE Locomotion | SD | Republica Dominicana
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i3.wp.com/unored.tv/wp-content/uploads/2018/03/Extrema-TV-portal-Unored-1.png" group-title="Sem Categoria", LISTADOMAYKE Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/55679u6x9/hotmusic.jpg" group-title="MUSICAS", LISTADOMAYKE HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBkPRxBNPdNGtFf53p2aP-luRBYX1Bqnw3aviAULH1GEHev6m5" group-title="CANAIS", LISTADOMAYKE ALL SPORTS-
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSICAS", LISTADOMAYKE RADIO MONTECARLO TV
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1 tvg-logo="http://digitalradio.it/wp-content/uploads/2016/10/Logo-m2o.png" group-title="CLIPS", LISTADOMAYKE - m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.info?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV MUSICA", LISTADOMAYKE M3-HIT MUSIC HD
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV MUSICA", LISTADOMAYKE M4-MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE RETRO
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE MUSIC CHOICE
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE CAPITAL TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE RADIO CONTACT
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", LISTADOMAYKE VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8?EDSONSOUSALIST
+#EXTINF:-1 tvg-logo="http://i.imgur.com/HHKJHd9.png" group-title="FILMES", LISTADOMAYKE Gospel Movies Television
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" group-title="FILMES", LISTADOMAYKE filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s27.postimg.org/wxjtppzo3/Slide1.jpg" group-title="FILMES", LISTADOMAYKE filmes 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EdTZ0ba.png" group-title="FILMES", LISTADOMAYKE Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSO", LISTADOMAYKE TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas", LISTADOMAYKE Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Musicas", LISTADOMAYKE ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV Musicas", LISTADOMAYKE ONE 4 HD
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV", LISTADOMAYKE ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?LISTASDAGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV", LISTADOMAYKE MKK WEB TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?LISTASDAGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV", LISTADOMAYKE WEB TV UAI
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU
+#EXTINF:-1 tvg-logo="https://goo.gl/DQySJY" group-title="WEB TV", LISTADOMAYKE TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASDAGLAU
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", LISTADOMAYKE TV  Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l0TyXIA.png" group-title="REGIONAIS", LISTADOMAYKE TV PANTANAL [MS]
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w1320184666.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", LISTADOMAYKE DISNEY JR HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170, LISTADOMAYKE8784, LISTADOMAYKEe684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INFANTIL", LISTADOMAYKE DISNEY XD HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170, LISTADOMAYKE8784, LISTADOMAYKE7f7978dabb948939a8a5b1b171ef599c;base64np;cyzcx3V5SZ4JJwc!/amlst:cywk3mgyTJ8WZ4s4/chunklist_b1089536.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7efb8aa368564e9ebb3befd2a8b0cb09.jpg" group-title="VARIEDADES", LISTADOMAYKE TV TEEN NET
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=40007737
+#EXTINF:-1 tvg-logo="https://goo.gl/Dxnuge" group-title="CANAIS", LISTADOMAYKE CINE ANTONIO FILMES 24HS- Canal FutucAndroiD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVHMLBXY_Qp1yTenR0dqCEdtaZjp38qTXsU_eDeWRg_yHYvbva" group-title="CANAIS INTERNACIONAIS", LISTADOMAYKE HBO2 HD- Canal FutucAndroiD
+http://161.0.157.51/PLTV/88888888/224/3221227026/index.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClkvlmW.png?1" group-title="FILMES E SÉRIES", LISTADOMAYKE 24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhujdoE.jpg?1" group-title="FILMES E SÉRIES", LISTADOMAYKE TV DIGITAL BIRIGUI
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="CANAIS", LISTADOMAYKE  Ticavision@
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="SERIES", LISTADOMAYKE TV JAPI@
+http://wse3.player.tv.br:1935/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-cS4fGWoKJww/Vktm7QgiRhI/AAAAAAAAA00/M0u0XSBHsI8/s1600/net.png" group-title="FILMES", LISTADOMAYKE Carioca
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tres Estranhos Identicos
+http://tyr.lhmtv.gq/redecanais/TRESTNHSIDNTCS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O ultimo Homem Negro em Sao Francisco
+http://tyr.lhmtv.gq/redecanais/OULTMHMNGREMSAOFNCO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Juntos para Sempre
+http://tyr.lhmtv.gq/redecanais/JNTSPRSMPR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Eu Nao Sou um Assassino
+http://tyr.lhmtv.gq/redecanais/EUNSUMSASINO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Anna: O Perigo Tem Nome LEG
+http://tyr.lhmtv.gq/redecanais/ANALEG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Moca da Limpeza
+http://tyr.lhmtv.gq/redecanais/AMCADLMPZA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Weevil
+http://tyr.lhmtv.gq/redecanais/WEVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vargur
+http://tyr.lhmtv.gq/redecanais/VRGR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Terrorista Americano
+http://tyr.lhmtv.gq/redecanais/TRSTAMRCNO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Shanghai Fortress
+http://tyr.lhmtv.gq/redecanais/SHNGFRTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Querido Menino
+http://tyr.lhmtv.gq/redecanais/QRDOMENO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Segredo de Nora
+http://tyr.lhmtv.gq/redecanais/OSGRDNRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Internato
+http://tyr.lhmtv.gq/redecanais/OINTRNTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nao Vai Ter Golpe
+http://tyr.lhmtv.gq/redecanais/NVATRGLPE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,My Hero Academia: 2 Herois: O Filme
+http://tyr.lhmtv.gq/redecanais/MYHRACDM2HRSOFLM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mega Crocodilo
+http://tyr.lhmtv.gq/redecanais/MGACRDLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Ma Op2
+http://tyr.lhmtv.gq/redecanais/MA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Em Busca da Cerveja Perfeita
+http://tyr.lhmtv.gq/redecanais/EMBSCDCRVJPRFTA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Elevador Mortal: Desce?
+http://tyr.lhmtv.gq/redecanais/ELVDRMRTLDSCE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Do Panama ao Mundo: Roberto Duran
+http://tyr.lhmtv.gq/redecanais/DOPNMAOMNDRBTODRN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Deu a Louca nos Nazis 2
+http://tyr.lhmtv.gq/redecanais/DEULCNSNZS2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Clown
+http://tyr.lhmtv.gq/redecanais/CLWN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Volta Por Cima
+http://tyr.lhmtv.gq/redecanais/AVLTPRCMA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Atentado ao Hotel Taj Mahal
+http://tyr.lhmtv.gq/redecanais/ATNDOAOHTLTJMHL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Lenda de Golem
+http://tyr.lhmtv.gq/redecanais/ALNDOGLM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Casa da Arvore
+http://tyr.lhmtv.gq/redecanais/ACSDAVRE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Boneca que virou Gente 2
+http://tyr.lhmtv.gq/redecanais/ABNCQVRGNT2.mp4?LHMTv
+
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Marvel Rising: Coracao de Ferro
+http://tyr.lhmtv.gq/redecanais/MRVLRSNGCRCAODFERO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Por Amor ou Por Dinheiro
+http://tyr.lhmtv.gq/redecanais/PRAMROUPRDNHRO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Genro da Minha Vida
+http://tyr.lhmtv.gq/redecanais/OGNRODMNHVDA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lar Ideal
+http://tyr.lhmtv.gq/redecanais/LARIDL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Eu Acredito 
+http://tyr.lhmtv.gq/redecanais/EUACRDTO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Era So uma Brincadeira
+http://tyr.lhmtv.gq/redecanais/ERSUMBRNCDRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Compartilhar
+http://tyr.lhmtv.gq/redecanais/CMPRTLHR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Caes Estelares
+http://tyr.lhmtv.gq/redecanais/CASESTRLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Bernie. O Golfinho
+http://tyr.lhmtv.gq/redecanais/BNEOGLNHO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Apos a Letargia
+http://tyr.lhmtv.gq/redecanais/APSALTRGA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,72 Horas: Martir Que Nunca Morreu
+http://tyr.lhmtv.gq/redecanais/72HRSMRTQNCMRE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Xenophobia
+http://tyr.lhmtv.gq/redecanais/XNPHBIA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,The Banana Splits Movie
+http://tyr.lhmtv.gq/redecanais/THBNASPLTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Separacao e Reencontro
+http://tyr.lhmtv.gq/redecanais/SPRCAORRECNTRO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Seis Vezes Confusao
+http://tyr.lhmtv.gq/redecanais/SESVZSCNFSAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Peppa Pig: George O Gigante
+http://tyr.lhmtv.gq/redecanais/PEPAPGGRGOGNTE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Pe Grande vs. Papai Noel
+http://tyr.lhmtv.gq/redecanais/PEGRNDVSPANEL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Show da Luna: Das Ilhas ao Continente
+http://tyr.lhmtv.gq/redecanais/OSHWDLNDSILHSAOCNTNE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,No Surrender
+http://tyr.lhmtv.gq/redecanais/NSRNDR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mussum: Um Filme do Cacildis
+http://tyr.lhmtv.gq/redecanais/MSUMFLMDCACLDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missao Extraordinaria
+http://tyr.lhmtv.gq/redecanais/MSAOEXTRDNRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Kardec: A Historia por tras do Nome
+http://tyr.lhmtv.gq/redecanais/KRDCAHSTPRTRSDNME.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Invasor Zim e o Florpus
+http://tyr.lhmtv.gq/redecanais/INSRZMEOFLPS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Industria Americana
+http://tyr.lhmtv.gq/redecanais/INDSTRAMRCNA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Duendes e Dragoes
+http://tyr.lhmtv.gq/redecanais/DNDSEDRGOS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cruise: Destino em Colisao
+http://tyr.lhmtv.gq/redecanais/CRSEDSTNOEMCLSAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,UglyDolls
+http://tyr.lhmtv.gq/redecanais/UGLSDLS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rocketman
+http://tyr.lhmtv.gq/redecanais/RCKMAN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Patrulha Canina: Super Filhotes
+http://tyr.lhmtv.gq/redecanais/PTRLHCNASPRFLHTS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Divino Amor
+http://tyr.lhmtv.gq/redecanais/DVNOAMR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cleavers: Killer Clowns
+http://tyr.lhmtv.gq/redecanais/CLVRSKLRCLWNS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Pequena Suica
+http://tyr.lhmtv.gq/redecanais/APQNSCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Maldicao de Sharon Tate
+http://tyr.lhmtv.gq/redecanais/AMLDCAODSHRNTLE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Model Kidnapping
+http://tyr.lhmtv.gq/redecanais/AMDLKDNPNG.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,3 Vidas
+http://tyr.lhmtv.gq/redecanais/3VDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Uma Crianca Como Jake
+http://tyr.lhmtv.gq/redecanais/UMCRANCCMJKE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tolkien
+http://tyr.lhmtv.gq/redecanais/TLKN.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Tudo o Que Tivemos
+http://tyr.lhmtv.gq/redecanais/TDOQTVMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Seeing Evil
+http://tyr.lhmtv.gq/redecanais/SEINGEVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,RedBad: A Invasao dos Francos
+http://tyr.lhmtv.gq/redecanais/REDBDANVSAODSFRNCS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Primos
+http://tyr.lhmtv.gq/redecanais/PRMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Hellboy
+http://tyr.lhmtv.gq/redecanais/HLBOY.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Sol tambem e uma Estrela
+http://tyr.lhmtv.gq/redecanais/OSLTBMEUMESTRLA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,My Stretch of Texas Ground
+http://tyr.lhmtv.gq/redecanais/MYSTRCHTXSGRND.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,LEGO DC: Batman: Assuntos de Familia 
+http://tyr.lhmtv.gq/redecanais/LGODCBTMNASNTSDFMLA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Descendentes 3
+http://tyr.lhmtv.gq/redecanais/DSCDNT3.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Donnybrook: Luta Pela Redencao
+http://tyr.lhmtv.gq/redecanais/DNYBRKLTPLRDCAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Dead List: Sua Hora Chegou
+http://tyr.lhmtv.gq/redecanais/DEDLSTSUHRCHGOU.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Darken: O Universo Paralelo
+http://tyr.lhmtv.gq/redecanais/DRKNOUNVRSPRLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Com Quem Sera?
+http://tyr.lhmtv.gq/redecanais/CMQSRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Clown Motel: Spirits Arise
+http://tyr.lhmtv.gq/redecanais/CLWNMTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brightburn: Filho das Trevas
+http://tyr.lhmtv.gq/redecanais/BRGBRNFLHDSTRVS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Vida Moderna de Rocko: Volta ao Lar
+http://tyr.lhmtv.gq/redecanais/AVDMRDNDRCKVLTAOLR.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Score to Settle
+http://tyr.lhmtv.gq/redecanais/ASCRTSTLE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Assassinaut
+http://tyr.lhmtv.gq/redecanais/ASASNUT.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Assassinos de Guerra
+http://tyr.lhmtv.gq/redecanais/ASASNSDGRA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Princesa Encantada: O Reino da Musica 
+http://tyr.lhmtv.gq/redecanais/APRNCSENCTDAORNDMSCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Anos 90
+http://tyr.lhmtv.gq/redecanais/ANS90.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Menina e o Leao
+http://tyr.lhmtv.gq/redecanais/AMNAEOLEAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ato de Esperanca
+http://tyr.lhmtv.gq/redecanais/UMATDESPRCA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Anjo
+http://tyr.lhmtv.gq/redecanais/OAJO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missao no Mar Vermelho
+http://tyr.lhmtv.gq/redecanais/MSAONMRVRMLHO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Mae e Muito Mais
+http://tyr.lhmtv.gq/redecanais/MAEMTMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Lutando Pela Familia
+http://tyr.lhmtv.gq/redecanais/LTNDPLFMLIA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,DolceRoma
+http://tyr.lhmtv.gq/redecanais/DLCRMA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Breakaway
+http://tyr.lhmtv.gq/redecanais/BRKWAY.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,A Esposa
+http://tyr.lhmtv.gq/redecanais/AESPSA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Capita Marvel 4K
+http://balder.lhmtv.gq/redecanais/CPTMRVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Vingadores: Ultimato 4K
+http://tyr.lhmtv.gq/redecanais/VNGDRSULTMTO4K.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Falcons em Jogo
+http://tyr.lhmtv.gq/redecanais/FLCNSEMJGO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Boi
+http://tyr.lhmtv.gq/redecanais/BOI.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Ladrao com Estilo
+http://tyr.lhmtv.gq/redecanais/UMLDRCMESTLO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Wolf
+http://tyr.lhmtv.gq/redecanais/WLF.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Batman: Silencio
+http://tyr.lhmtv.gq/redecanais/BTMNSLNCIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Filho Protegido
+http://tyr.lhmtv.gq/redecanais/OFLHPRTGDO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gelo em chamas
+http://tyr.lhmtv.gq/redecanais/GLOEMCHMS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Missing Link
+http://tyr.lhmtv.gq/redecanais/MSNGLNK.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Luccas Neto em: Acampamento de Ferias
+http://tyr.lhmtv.gq/redecanais/LCSNTOEMACMPMTDFRS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Casal Improvavel
+http://tyr.lhmtv.gq/redecanais/CSLIMPVL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Gloria Bell
+http://tyr.lhmtv.gq/redecanais/GLRABEL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Forjando Campeoes
+http://tyr.lhmtv.gq/redecanais/FRJNDCMPAO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Nos Caminhos de Deus
+http://tyr.lhmtv.gq/redecanais/NSCMNHSDES.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Brincadeira Mortal
+http://tyr.lhmtv.gq/redecanais/BRNCDRMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Rastros do Alem
+http://tyr.lhmtv.gq/redecanais/RSTRSDALM.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Obsessao Secreta
+http://tyr.lhmtv.gq/redecanais/OBSESAOSCRTA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Cortina de Fogo 2
+http://tyr.lhmtv.gq/redecanais/CRTNDFGO2.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Arizona
+http://tyr.lhmtv.gq/redecanais/ARZNA.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,O Homem que Matou Dom Quixote
+http://tyr.lhmtv.gq/redecanais/OHMEMQMTDNQXTE.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Um Lugar Sombrio
+http://balder.lhmtv.gq/redecanais/UMLGRSMBIO.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Segredos e Despedida
+http://balder.lhmtv.gq/redecanais/SGDSEDSPRDS.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Resgate Mortal
+http://balder.lhmtv.gq/redecanais/RSGTMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Reencontro Mortal
+http://balder.lhmtv.gq/redecanais/RECNTRMRTL.mp4?LHMTv
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="Filmes" ,Godzilla II: Rei dos Monstros
+http://tyr.lhmtv.gq/redecanais/GDZLAOREDSMNSTS.mp4?LHMTv

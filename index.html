@@ -1,0 +1,692 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>iptv</title>
+
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="css/style.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+    <link rel='icon' href='img/favicon.png' type='image/x-icon' sizes="16x16" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JNCKCDV6K4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JNCKCDV6K4');
+    </script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TMLWPQ8');</script>
+    <!-- End Google Tag Manager -->
+
+    <!--Estilo Botão Fixado do WhatsApp-->
+    <style>
+        .whatsapp-link {
+            position: fixed;
+            width: 60px;
+            height: 60px;
+            bottom: 40px;
+            right: 40px;
+            background-color: #25d366;
+            color: #fff;
+            border-radius: 50px;
+            text-align: center;
+            font-size: 30px;
+            box-shadow: 1px 1px 2px #888;
+            z-index: 1000;
+        }
+
+        .fa-whatsapp {
+            margin-top: 16px;
+        }
+    </style>
+</head>
+
+<body>
+
+<!-- WhatsApp-->
+<a class="whatsapp-link" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20testar%20IPTV%3F" target="_blank">
+    <i class="fa fa-whatsapp"></i>
+</a>
+
+<!-- Facebook comentários -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v9.0" nonce="umMB873U"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMLWPQ8"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">Peça já seu <strong><em>teste grátis</em></strong><em> </em>IPTV</div>
+            </div>
+        </div>
+    </div>
+
+    <nav  id="mainNav" class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="img/favicon.png " width="30" height="30" class="d-inline-block align-top" alt="listas iptv"> IPTV
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#intro">O que é?</a> </li>
+                    <li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#iptvcomum">Planos IPTV e P2P</a> </li>
+                    <!---<li class="nav-item"> <a class="nav-link js-scroll-trigger" href="p2p">P2P</a> </li>-->
+                    <!--<li class="nav-item"> <a class="nav-link js-scroll-trigger" href="#signup">Contato</a> </li>-->
+                </ul>
+                <a type="button" class="btn btn-success" aria-hidden="true" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20testar%20IPTV%3F" target="_blank"> Testar</a>
+            </div>
+        </div>
+    </nav>
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-item">
+            <li data-target="#carouselExampleIndicators"  class="active"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100" src="img/01.gif" alt="First slide">
+                <div class="carousel-caption d-none d-md-block">
+                    <h1 style="color: #be9401"> O MELHOR DA TV ESTÁ AQUI!</h1>
+                    <h3 style="color: #d4cfcf">São + de 16.800 conteúdos, com imagem de cinema e sem travamentos.</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div>
+        <div class="container">
+            <br>
+            <div class="card" id="intro">
+                <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+                    <div class="card-body">
+
+                        <div class="row align-items-center">
+                            <div class="col-lg-5">
+                                <div class="side-feature md-m-25px-b">
+                                    <div class="feature-content">
+                                        <h1 class="black-color font-alt">O QUE É IPTV?</h1>
+                                        <div class="line">
+                                            <p>IPTV (Televisão por Protocolo de Internet ou Internet Protocol Television)
+                                                – Essa tecnologia nada mais é do que a junção de um serviço de televisão
+                                                com o de internet banda larga. Ao invés de receber seu sinal de televisão
+                                                pela antena ou pelo cabo da sua operadora de TV, você a recebe via internet.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- col -->
+
+                            <div class="col-lg-7 text-md-right text-sm-center"> <img src="img/samsung-complementary.e5f252e.png" title="" alt="smart iptv" class="img-fluid"> </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <section class="">
+
+         <div class="container">
+             <p></p>
+             <div class="row d-flex align-items-center justify-content-center text-center">
+                 <div class="col-md-10">
+                     <div class="title-content-warpper">
+                         <h3>Compatibilidade</h3>
+                     </div>
+                     <!--<h4 class="mt-3 mb-3"> São + de 16.000 conteúdos em nossa plataforma, venha conhecer!</h4>-->
+
+                     <p><small>🔥 Venha Conhecer a TV por Assinatura do Futuro! </small></p>
+                 </div>
+             </div>
+
+
+             <div class="mt-5 mb-5">
+                 <div class="row text-center">
+                     <div class="col-12 col-md-3">
+                         <div>
+                             <div class="mb-2">
+                                 <div class="icon display-3 mb-3"><img src="img/pc_move.png"></div>
+                                 <h5>Compatível no PC, Smart TV</h5>
+                                 <p>Você pode assitir em seu PC e na Smart TV sem muito esforço. Em - de 15 minutos você consegue instalar Apps compatíveis com o nosso serviço</p>
+                             </div>
+                         </div>
+
+                     </div>
+                     <div class="col-12 col-md-3">
+                         <div class="">
+                             <div class="mb-2">
+                                 <div class="icon display-3 mb-3"><img src="img/tv-box-move.png"></div>
+                                 <h5>TV BoX</h5>
+                                 <p>Não somos responsáveis pela configuração dos aparelhos,apenas vendemos o link de transmissão IPTV.</p>
+                             </div>
+                         </div>
+
+                     </div>
+                     <div class="col-12 col-md-3">
+                         <div class="">
+                             <div class="mb-2">
+                                 <div class="icon display-3 mb-3"><img src="img/celular_move.png"></div>
+                                 <h5>Android, IOS</h5>
+                                 <p>Temos 4 Apps exclusivos para Android, IOS, PC e Algumas Smarts TVs da marca Samsung e LG da nova geração. </p>
+                             </div>
+                         </div>
+
+                     </div>
+
+
+                     <div class="col-12 col-md-3">
+                         <div class="">
+                             <div class="mb-2">
+                                 <div class="icon display-3 mb-3"><img src="img/tablet_move.png"></div>
+                                 <h5>Tablet</h5>
+                                 <p>Não somos responsáveis pela configuração dos aparelhos,apenas vendemos o link de transmissão IPTV.</p>
+                             </div>
+                         </div>
+
+                     </div>
+
+
+                 </div>
+             </div>
+         </div>
+     </section>
+
+    <!--<div class="space-md" id="pricing">-->
+    <div id="iptvcomum">
+        <div class="container">
+            <h3 class="mt-4 mb-3 text-center shadow-lg p-3 bg-white rounded" style="color: #677bff" >PLANO IPTV COMUM P/ PERÍODO</h3>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                        <div class="v3-row">
+                            <p class="mb-3">Mensal</p>
+                            <h3 class="display-5 font-weight-bold" style="color: #677bff">R$30</h3>
+                            <p></p>
+                        </div> <a class="btn btn-gradient" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20assinar%20mensalmente%3F">Assinar Agora</a>
+                        <div class="mt-4">
+                            <p class="text-dark mb-2">Completo</p>
+                            <p class="">Documentários, Filmes, Series, Futebol ao Vivo, Variedades e Musicas, Infantis, adultos opcional + VODS em SD + HD + FHD 4K</p>
+                            <p class="my-2 small badge badge-primary">Apps exclusivos</p>
+                        </div>
+                    </div>
+                    <!-- end of pricing -->
+                </div>
+
+
+                <div class="col-md-3">
+                    <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                        <div class="v3-row">
+                            <p class="mb-3">Trimestral</p>
+                            <h3 class="display-5 font-weight-bold">R$85</h3>
+                            <p></p>
+                        </div> <a class="btn btn-outline-primary" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20assinar%203%20meses%3F">Assinar Agora</a>
+                        <div class="mt-4">
+                            <p class="text-dark mb-2">Completo</p>
+                            <p class="">Documentários, Filmes, Series, Futebol ao Vivo, Variedades e Musicas, Infantis, adultos opcional + VODS em SD + HD + FHD 4K</p>
+                            <p class="my-2 small badge badge-primary">Apps exclusivos</p>
+                        </div>
+                    </div>
+                    <!-- end of pricing -->
+                </div>
+
+                <!-- end of col  -->
+                <div class="col-md-3">
+                    <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                        <div class="v3-row">
+                            <p class="mb-3">Semestral</p>
+                            <h3 class="display-5 font-weight-bold">R$147</h3>
+                            <p></p>
+                        </div><a class="btn btn-outline-primary" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20assinar%206%20meses%3F">Assinar Agora</a>
+                        <div class="mt-4">
+                            <p class="text-dark mb-2">Completo</p>
+                            <p class="">Documentários, Filmes, Series, Futebol ao Vivo, Variedades e Musicas, Infantis, adultos opcional + VODS em SD + HD + FHD 4K</p>
+                            <p class="my-2 small badge badge-primary">Apps exclusivos</p>
+                        </div>
+                    </div>
+                    <!-- end of pricing -->
+                </div>
+                <!-- end of col  -->
+                <div class="col-md-3">
+                    <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                        <div class="v3-row">
+                            <p class="mb-3">Anual</p>
+                            <h3 class="display-5 font-weight-bold">R$270</h3>
+                            <p></p>
+                        </div> <a class="btn btn-outline-primary" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20assinar%20*1%20ano%20de%20IPTV*%3F">Assinar Agora</a>
+                        <div class="mt-4">
+                            <p class="text-dark mb-2">Completo</p>
+                            <p class="">Documentários, Canais Abertos, Filmes e Series, Esportes, Variedades e Musicas, Infantis, adultos opcional + VODS + Canais SD + HD + FHD 4K</p>
+                            <p class="my-2 small badge badge-primary">Apps exclusivos</p>
+                        </div>
+                    </div>
+                    <!-- end of pricing -->
+                </div>
+                <!-- end of col  -->
+            </div>
+        </div>
+    </div>
+
+
+
+    <section class="card" id="p2p">
+        <div class="fa-space-shuttle">
+            <div class="container">
+                <h3 class="mt-4 mb-3 text-center shadow-lg p-3 bg-white rounded" style="color: #409b00" >PLANO P2P</h3>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                            <div class="v3-row">
+                                <p class="mb-3">Teste</p>
+                                <h3 class="display-4 font-weight-bold"  style="color: #409b00">R$Grátis</h3>
+                                <p>Perfeito para você testar e tirar suas dúvidas.</p>
+                            </div> <a class="btn btn-outline-success" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20%20testar%20o%20P2P%20em%20meu%20Android%3F">Teste Agora</a>
+                            <div class="mt-4">
+                                <p class="text-dark mb-2">Conteúdos</p>
+                                <p class="">Documentários, Canais Abertos, Filmes e Series, Esportes, Variedades e Musicas, Infantis, adultos opcional + VODS + Canais SD + HD + FHD 4K</p>
+                                <p class="my-2 small badge badge-primary">Apps exclusivos</p>
+                            </div>
+                        </div>
+                        <!-- end of pricing -->
+                    </div>
+                    <!-- end of col  -->
+                    <div class="col-md-4">
+                        <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                            <div class="v3-row">
+                                <p class="mb-3">Acesso</p>
+                                <h3 class="display-3 font-weight-bold">R$35</h3>
+                                <p>Tenha tudo ao alcance de suas mãos</p>
+                            </div> <a class="btn btn-gradient" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20assinar%20mensalmente%20o%20P2P%20por%20R%24%2035%2C0%3F">Escolher</a>
+                            <div class="mt-4">
+                                <p class="text-dark mb-2">Conteúdos</p>
+                                <p class="">Documentários, Canais Abertos, Filmes e Series, Esportes, Variedades e Musicas, Infantis, adultos opcional em Canais SD,HD,FHD, FHD H.256, 4K, Alter1 e 2</p>
+                                <p class="my-2 small badge badge-primary">Apps exclusivos</p>
+                            </div>
+                        </div>
+                        <!-- end of pricing -->
+                    </div>
+                    <!-- end of col  -->
+                    <div class="col-md-4">
+                        <div class="card pricing-v3 p-md-5 p-sm-3 text-center">
+                            <div class="v3-row">
+                                <p class="mb-3">2 telas</p>
+                                <h3 class="display-3 font-weight-bold">R$65</h3>
+                                <p>CANAIS SD + HD + FULL HD + ONDEMAND + 18</p>
+                            </div> <a class="btn btn-outline-primary" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20gostaria%20de%20assinar%202%20telas%20(Sistema%20P2P).%20Como%20que%20fa%C3%A7o%3F">Escolher</a>
+                            <div class="mt-4">
+                                <p class="text-dark mb-2">Conteúdos</p>
+                                <p class="">Documentários, Canais Abertos, Filmes e Series, Esportes, Variedades e Musicas, Infantis, adultos opcional + VODS + Canais SD + HD + FHD 4K</p>
+                                <p class="my-2 small badge badge-primary">App exclusivo</p>
+                            </div>
+                        </div>
+                        <!-- end of pricing -->
+                    </div>
+                    <!-- end of col  -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- info section -->
+    <section id="intro">
+        <div class="container">
+
+            <!-- Page Heading/Breadcrumbs -->
+            <h1 class="mt-4 mb-3">FAQ
+                <small>IPTV</small>
+            </h1>
+
+
+            <div class="mb-4" id="accordion" role="tablist" aria-multiselectable="true">
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingOne">
+                        <h5 class="mb-0">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"><h5>P2P</h5></a>
+                        </h5>
+                    </div>
+
+                    <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="card-body">
+
+                            <div class="row align-items-center">
+                                <div class="col-lg-5">
+                                    <div class="side-feature md-m-25px-b">
+                                        <div class="feature-content">
+                                            <h1 class="black-color font-alt">Veja Como Funciona...</h1>
+                                            <div class="line">
+                                                <p> Novo sistema de transmissão de conteúdo, único a prova de traffic shaping.
+                                                </p>
+                                            </div>
+                                            <small class="mt-3 d-block">IPTV, <span class="text-primary"> por 2 horas</span> gratuitas de modo gratuito </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- col -->
+                                <div class="col-lg-7 text-md-right text-sm-center"> <img src="https://apkpure.com/p2server/com.p2server.android" title="" alt="" class="img-fluid"> </div>
+
+
+                                <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/gU0aPnHr794" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingEight">
+                        <h5 class="mb-0">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="true" aria-controls="collapseEight"><h5>Faça seu teste grátis</h5></a>
+                        </h5>
+                    </div>
+
+                    <div id="collapseEight" class="collapse show" role="tabpanel" aria-labelledby="headingEight">
+                        <div class="card-body">
+
+                            <div class="row align-items-center">
+                                <div class="col-lg-5">
+                                    <div class="side-feature md-m-25px-b">
+                                        <div class="feature-content">
+                                            <h1 class="black-color font-alt">Faça seu teste grátis</h1>
+                                            <div class="line">
+                                                <p>IPTV
+                                                </p>
+                                            </div>
+                                            <small class="mt-3 d-block">Peça já seu teste grátis, <span class="text-primary"> são 4 horas</span> gratuitas de modo gratuito </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- col -->
+                                <div class="col-lg-7 text-md-right text-sm-center"> <img src="img/teste-gratis-iptv-2.png" title="" alt="" class="img-fluid"> </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingTwo">
+                        <h5 class="mb-0">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><h5>Como instalar IPTV na TV Smart LG e Samsung?</h5></a>
+                        </h5>
+                    </div>
+                    <div id="collapseTwo" class="collapse" role="tabpanel" aria-labelledby="headingTwo">
+                        <div class="card-body">
+
+                            <p>Para baixar o aplicativo SmartIPTV, siga esses passos:</p>
+                            <p>1) Entre na loja de aplicativos da TV.</p>
+                            <p>2) Procure por SmartIPTV.</p>
+                            <p>3) Instale o aplicativo.</p>
+                            <p>4) Após isso, faça a configuração de sua lista (solicite nossa equipe o tutorial).</p>
+
+                            <p>Obs: Este aplicativo tem uma anuidade no valor de 5,49 euros. É necessário ter um cartão de crédito para a compra da licença do aplicativo (pago ao desenvolvedor do mesmo). Os 7 primeiros dias são de testes.</p>
+
+                            <p>Caso seja não possua cartão de crédito, podemos fazer a ativação por aqui, no valor de R$ 60,00. Basta fazer a compra usando este link: https://iptvblack.tv/central/cart.php?a=add&pid=12</p>
+
+
+
+                            <p>Agora acesse o site: http://siptv.eu/mylist/ para inserir seu código MAC e a URL da sua lista IPTV.</p>
+
+                            <p>1.Insira o Endereço MAC que sua TV exibe.</p>
+
+                            <p>2. Insira a URL que fornecemos para você.</p>
+
+                            <p>3. Resolva o Captcha para poder salvar;</p>
+
+                            <p>4. Clique em Add Link.</p>
+
+                            <p>Pronto sua TV já está conectada a IPTVBlack.TV. Basta reiniciar seu aparelho ou apertar 0 caso já esteja ligado.</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingThree">
+                        <h5 class="mb-0">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><h5>Como instalar IPTV nas demais TVs Smart?</h5></a>
+                        </h5>
+                    </div>
+                    <div id="collapseThree" class="collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <div class="card-body">
+
+                            <p>Para baixar o SSIPTV em sua tv, siga estes passos:</p>
+
+                            <p> 1) Acesse o link http://app.ss-iptv.com/ pelo navegador da tv.</p>
+                            <p> 2) Siga os passos pedidos na televisão.</p>
+                            <p>Obs: Caso dê erro, sua tv não será compatível.</p>
+                            <p>Obs2: Caso apareça a página solicitando configuração, nos solicite o tutorial de configuração.</p>
+
+                            <p>Para configurar o SSIPTV, siga estes passos:</p>
+
+                            <p> 1) http://ss-iptv.com/en/users/playlist basta entrar neste link pelo computador ou celular.</p>
+                            <p> 2) Vá em configurações da TV (ícone de engrenagem na barra superior direita),e clique em gerar código.</p>
+                            <p> 3) adicione o código da sua TV, no qual o sistema gerou.</p>
+                            <p> 4) copie a URL da lista enviada pelo sistema por e-mail, vá em External Playlist, e adicione.</p>
+                            <p> 5) Após adicionar, não esqueça de salvar a Playlist.</p>
+                            <p> 6) Após isso, faça um teste reiniciando seu aparelho</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingFour">
+                        <h5 class="mb-0">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="true" aria-controls="collapseFour"><h5>Qual velocidade de internet é necessária?</h5></a>
+                        </h5>
+                    </div>
+
+                    <div id="collapseFour" class="collapse" role="tabpanel" aria-labelledby="headingFour">
+                        <div class="card-body">
+                            <p>* Qualidade SD e Ondemand é necessário 5 mb.</p>
+                            <p>* Qualidade HD é necessário 10mb.</p>
+                            <p>* Qualidade FULL HD é necessário 15mb.</p>
+                            <strong>Pode acontecer de uma velocidade inferior rodar uma qualidade melhor, por isso, faça um teste. </strong>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingFive">
+                        <h5 class="mb-0">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="true" aria-controls="collapseFive"><h5>Lista iptv compatível com todos os aparelhos do mercado?</h5></a>
+                        </h5>
+                    </div>
+
+                    <div id="collapseFive" class="collapse" role="tabpanel" aria-labelledby="headingFive">
+                        <div class="card-body">
+
+                            <div class="row align-items-center">
+                                <div class="col-lg-5">
+                                    <div class="side-feature md-m-25px-b">
+                                        <div class="feature-content">
+                                            <h1 class="black-color font-alt">Compatibilidade</h1>
+                                            <div class="line" style="color: #06741a">
+                                                <p class="fa fa-tv "><strong> SMART TV: Smart IPTV, SSIPTV, etc</strong></p>
+                                                <p class="fa fa-chrome "><strong> TV BOX, Computador (pc) ou Notebook, Chromecast</strong></p>
+                                                <p class="fa fa-table"><strong> TV LED: É necessário utilizar Chromecast ou TV box</strong></p>
+                                                <p class="fa fa-android "><strong> ANDROID: GSE IPTV, Perfect Player, IPTV, Extreme IPTV, entre outros</strong></p>
+                                                <p class="fa fa-windows "><strong> COMPUTADOR: Player IPTVBlack.TV, Kodi, Perfect Player, VLC, outros</strong></p>
+                                                <p class="fa fa-apple "><strong> IPHONE (IOS): GSE IPTV e Smarter IPTV.</strong></p>
+                                            </div>
+                                            <small class="mt-3 d-block">Peça já seu teste grátis, <span class="text-primary"> são 4 horas</span> gratuitas de modo gratuito </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- col -->
+                                <div class="col-lg-7 text-md-right text-sm-center"> <img src="img/aplicativos-compativeis-1024x425.png" title="" alt="" class="img-fluid"> </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingSix">
+                        <h5 class="mb-0">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseSix"><h5>Existe algma fidelidade?</h5></a>
+                        </h5>
+                    </div>
+
+                    <div id="collapseSix" class="collapse" role="tabpanel" aria-labelledby="headingSix">
+                        <div class="card-body">
+
+                            <div class="row align-items-center">
+                                <div class="col-lg-5">
+                                    <div class="side-feature md-m-25px-b">
+                                        <div class="feature-content">
+                                            <h1 class="black-color font-alt"><strong>Não</strong> consultamos o SPC e  Serasa</h1>
+                                            <div class="line">
+                                                <p>Não possui nenhum tipo de fidelidade, nosso serviço é pré-pago, ou seja, você paga pelo login que tem validade de 30 dias ativos em seu dispositivo. Assim, antes de expirar, entraremos em contato com você para saber se ainda deseja continuar com o nosso serviço de IPTV.
+                                                </p>
+                                            </div>
+                                            <small class="mt-3 d-block">Peça já seu teste grátis, <span class="text-primary"> são 4 horas</span> gratuitas de modo gratuito </small>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- col -->
+                                <div class="col-lg-7 text-md-right text-sm-center"> <img src="img/liberdade.png" title="" alt="" class="img-fluid"> </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingSeven">
+                        <h5 class="mb-0">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven"><h5>Quais as formas de pagamento IPTV?</h5></a>
+                        </h5>
+                    </div>
+
+                    <div id="collapseSeven" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
+                        <div class="card-body">
+
+                            <div class="row align-items-center">
+                                <div class="col-lg-5">
+                                    <div class="side-feature md-m-25px-b">
+                                        <div class="feature-content">
+                                            <div class="line">
+                                                <p>Você escolhe a melhor forma de pagar seu IPTV, sendo:</p>
+                                                <p>* PayPal</p>
+                                                <p>* Tranferência</p>
+                                                <p>* PicPay</p>
+                                                <p>* Boleto Bancário</p>
+                                                <p>* Depósito em Conta, ativação após compensação de pagamento</p>
+                                                <p>* MercadoPago</p>
+                                                <!--<p>* PagSeguro</p>-->
+                                                <!--comentário do facebook-->
+                                                <!--<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>-->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Section - client logos -->
+    <section class="container clients py-5">
+        <div class="row text-center">
+            <!-- Logo -->
+            <div class="col-lg-2 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="img/logoscanais/logo-1.png" alt="iptv" class="img-fluid"> </div>
+            </div>
+            <!-- Logo -->
+            <div class="col-lg-2 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="img/logoscanais/logo-2.png" alt="iptv" class="img-fluid"> </div>
+            </div>
+            <!-- Logo -->
+            <div class="col-lg-2 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="img/logoscanais/logo-3.png" alt="iptv" class="img-fluid"> </div>
+            </div>
+            <!-- Logo -->
+            <div class="col-lg-2 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="img/logoscanais/logo-4.png" alt="iptv" class="img-fluid"> </div>
+            </div>
+            <div class="col-lg-2 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="img/logoscanais/logo-5.png" alt="iptv" class="img-fluid"> </div>
+            </div>
+            <div class="col-lg-2 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="img/logoscanais/logo-7.png" alt="iptv" class="img-fluid"> </div>
+            </div>
+            <div class="col-lg-1 col-sm-12 col-xs-12">
+                <div class="hero-img"> <img src="#" alt="" class="img-fluid"> </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="pt-5 pb-1 bg-dark">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-auto">
+                    <a class="d-inline-block mb-3 mr-4 text-light" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20testar%20IPTV%3F">O que é iptv?</a>
+                    <a class="d-inline-block mb-3 mr-4 text-light" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20testar%20IPTV%3F">Planos IPTV e P2P</a>
+                    <a class="d-inline-block mb-3 mr-4 text-light" href="https://api.whatsapp.com/send?phone=5583987834812&text=%23oask.com.br%20como%20fa%C3%A7o%20para%20testar%20IPTV%3F">Contato iptv</a>
+                </div>
+
+                <div class="col-12">
+                    <hr class="my-2">
+                </div>
+                <div class="col-lg-auto mt-4">
+                    <small> © Oask. Todos os direitos reservados.</small>
+                    <br>
+                    <small>Developed by Mayke Kend</small>
+                </div>
+            </div>
+            <!--/.row-->
+        </div>
+        <!--/.container-->
+    </footer>
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container"> </div>
+    </footer>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="js/style.min.js"></script>
+</body>
+
+</html>
